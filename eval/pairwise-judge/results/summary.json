@@ -1,0 +1,23 @@
+[
+  {
+    "file": "v1_baseline__claude.jsonl",
+    "agreement": 0.9,
+    "per_judgment_agreement": 0.9,
+    "position_consistency": 1.0,
+    "kappa": 0.782608695652174
+  },
+  {
+    "file": "v2_rubric__claude.jsonl",
+    "agreement": 0.8,
+    "per_judgment_agreement": 0.85,
+    "position_consistency": 0.9,
+    "kappa": 0.6000000000000001
+  },
+  {
+    "file": "v3_rubric_hardchecks__claude.jsonl",
+    "agreement": 0.8,
+    "per_judgment_agreement": 0.85,
+    "position_consistency": 0.9,
+    "kappa": 0.6000000000000001
+  }
+]
